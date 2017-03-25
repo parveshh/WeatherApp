@@ -1,6 +1,7 @@
 # Weatherapp
 
 Weather app using OpenWeatherAPI and Angular 2
+Using template from https://www.themezy.com/demos/128-steel-weather-free-responsive-website-template
 
 ## Development server
 
